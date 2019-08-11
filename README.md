@@ -11,5 +11,6 @@ The implemention of MyFirstSimpleBlockchain and simple Proof-of-work.
    
 3. 有效
 
-  结果比上界要小
-  Isvalid（）验证是否有效
+    结果比上界要小, Isvalid（）验证是否有效
+
+[Simple Blockchain 3](https://github.com/Billy1900/SimpleBlockchain-3)
